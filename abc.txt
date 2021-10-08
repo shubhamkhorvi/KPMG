@@ -1,5 +1,0 @@
-A:hello how are you
-B:I am fine thank you
-A:Where are you going?
-B:I am going to Nether, to find some netherite.
-A:Do you have diamond armour which is enchanted?
